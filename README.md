@@ -13,4 +13,4 @@ This system automatically assigns subjects to the students based on their choice
 
 
 ######Student Section
-![3](https://user-images.githubusercontent.com/15046800/67473734-0fe84e80-f675-11e9-97c9-f9e74453ab43.png)
+![3](https://user-images.githubusercontent.com/15046800/67474203-e5e35c00-f675-11e9-8bae-c0d80e75f2ba.png)
